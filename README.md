@@ -1,2 +1,4 @@
 # Python-in-xmind
-关于Python的一些思维导图
+####Python基础.xmind文件预览
+
+![Python基础](D:\Desktop\Python基础.png)
